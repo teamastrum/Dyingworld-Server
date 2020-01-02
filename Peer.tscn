@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Peer" type="Spatial"]
+
+[node name="ConsoleAccess" type="Node" parent="."]
+
+[node name="Inventory" type="Node" parent="."]
+
+[node name="HealthSystem" type="Node" parent="."]
+
+[node name="Authority" type="Node" parent="."]
